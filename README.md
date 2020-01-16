@@ -10,22 +10,22 @@ You can use any language / framework you wish to write your solution. Obviously 
 Once complete, either zip the solution and send it back to your recruiter or share your repository link.
 
 ## TODO
-[ ] Front End - React 
-    [ ] Function
-        [ ] Form 
-        [ ] Input text box 
-        [ ] Submit button 
-        [ ] Show submitted feedback 
-    [ ] Styling 
-        [ ] 
-[ ] Back End - Firebase 
-    [ ] Admin (and user) accounts
-    [ ] Confirmation on succesful submission - Send to front end on succesful submission 
-    [ ] 
-[ ] Test 
-    [ ] Chrome
-    [ ] Chrome Mobile views
-    [ ] Safari 
-    [ ] iPhone 
-    [ ] iPad 
-    [ ] Private browser 
+* [ ] Front End - React 
+    * [ ] Function
+        * [ ] Form 
+        * [ ] Input text box 
+        * [ ] Submit button 
+        * [ ] Show submitted feed* back 
+    * [ ] Styling 
+        * [ ] Make it pretty
+* [ ] Back End - Firebase 
+    * [ ] Admin (and user) accounts
+    * [ ] Confirmation on succesful submission - Send to front end on succesful submission 
+    * [ ] 
+* [ ] Test 
+    * [ ] Chrome
+    * [ ] Chrome Mobile views
+    * [ ] Safari 
+    * [ ] iPhone 
+    * [ ] iPad 
+    * [ ] Private browser 

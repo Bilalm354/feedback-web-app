@@ -16,12 +16,12 @@ Once complete, either zip the solution and send it back to your recruiter or sha
 
 - [ ] Front End - React
   - [ ] Function
-    - [ ] Form
-    - [ ] Input text box
-    - [ ] Submit button
+    - [x] Form
+    - [x] Input text box
+    - [x] Submit button
     - [ ] Show submitted feed\* back
-  - [ ] Styling
-    - [ ] Make it pretty
+  - [x] Styling
+    - [x] Make it pretty
 - [ ] Back End - Firebase
   - [ ] Admin (and user) accounts
   - [ ] Confirmation on succesful submission - Send to front end on succesful submission
@@ -32,6 +32,7 @@ Once complete, either zip the solution and send it back to your recruiter or sha
   - [ ] Safari
   - [ ] iPhone
   - [ ] iPad
+- [ ] Deploy with Netlify
 
 # Plan
 

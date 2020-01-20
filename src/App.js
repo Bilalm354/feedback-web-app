@@ -5,6 +5,7 @@ import Dashboard from "./components/dashboard/Dashboard";
 import FeedbackDetails from "./components/feedback/FeedbackDetails";
 import SignIn from "./components/auth/SignIn";
 import SignUp from "./components/auth/SignUp";
+import CreateFeedback from "./components/feedback/CreateFeedback";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Route path="/project/:id" component={FeedbackDetails} />
           <Route path="/signin" component={SignIn} />
           <Route path="/signup" component={SignUp} />
+          <Route path="/create" component={CreateFeedback} />
         </Switch>
       </div>
     </BrowserRouter>
